@@ -1,8 +1,8 @@
-# Corn Maze Raycaster — GBA prototype
+# Raycaster — GBA prototype
 
 A first-person corn maze prototype for the Game Boy Advance. Not a full game: a small maze to walk, turn, and escape from.
 
-Designer: Designer
+![Animated demo: turn, step, turn back](screenshots/demo.gif)
 
 ## Play
 
@@ -29,8 +29,6 @@ Reach the clearing at the far end of the maze for the exit screen.
 ![Corridor after stepping south](screenshots/corridor.png)
 
 ![Close wall, capped so sky and floor stay visible](screenshots/close-wall.png)
-
-![Animated demo: turn, step, turn back](screenshots/demo.gif)
 
 ## How it works
 
