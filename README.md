@@ -20,6 +20,18 @@ Or load `releases/raycaster-gba-fast.gba` in a GBA emulator.
 
 Reach the clearing at the far end of the maze for the exit screen.
 
+## Screenshots
+
+![Title screen](screenshots/title.png)
+
+![Start view, facing east down the corridor](screenshots/start.png)
+
+![Corridor after stepping south](screenshots/corridor.png)
+
+![Close wall, capped so sky and floor stay visible](screenshots/close-wall.png)
+
+![Animated demo: turn, step, turn back](screenshots/demo.gif)
+
 ## How it works
 
 - Mode 4 bitmap, 240 columns, DDA raycasting with fixed-point math and table trig
